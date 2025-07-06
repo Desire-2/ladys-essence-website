@@ -6,7 +6,7 @@ import { Badge } from '../ui/badge';
 
 // Import images
 import teamImage from '../../assets/women-health-africa.jpg';
-import missionImage from '../../assets/girls-education.jpg';
+import missionImage from '/dist/assets/girls-education-BoYZ1rIF.jpg';
 
 const About = () => {
   const teamMembers = [

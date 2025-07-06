@@ -31,8 +31,12 @@ const Header = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
-            <div className="bg-primary p-2 rounded-full">
-              <Heart className="h-6 w-6 text-white" />
+            <div className="bg-white p-2 rounded-full">
+              <img 
+                src="/dist/assets/logo.png" 
+                alt="Lady's Essence Logo" 
+                className="h-6 w-6 object-contain"
+              />
             </div>
             <div>
               <h1 className="text-xl font-bold text-primary">Lady's Essence</h1>

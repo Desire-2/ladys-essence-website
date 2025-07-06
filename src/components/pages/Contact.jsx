@@ -20,9 +20,9 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email Us",
-      details: "contact@laddyseccense.org",
+      details: "ladysessence1@gmail.com",
       description: "Send us an email and we'll respond within 24 hours",
-      action: "mailto:contact@laddyseccense.org"
+      action: "mailto:ladysessence1@gmail.com"
     },
     {
       icon: Phone,

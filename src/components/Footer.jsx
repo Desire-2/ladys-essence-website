@@ -12,7 +12,11 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <div className="bg-white p-2 rounded-full">
-                <Heart className="h-6 w-6 text-primary" />
+                <img 
+                  src="/dist/assets/logo.png" 
+                  alt="Lady's Essence Logo" 
+                  className="h-6 w-6 object-contain"
+                />
               </div>
               <div>
                 <h3 className="text-xl font-bold">Lady's Essence</h3>
@@ -105,10 +109,10 @@ const Footer = () => {
               <div className="flex items-center space-x-3">
                 <Mail className="h-4 w-4 text-primary-foreground/80" />
                 <a 
-                  href="mailto:contact@laddyseccense.org" 
+                  href="mailto:ladysessence1@gmail.com" 
                   className="text-primary-foreground/80 hover:text-white transition-colors text-sm"
                 >
-                  contact@laddyseccense.org
+                  ladysessence1@gmail.com
                 </a>
               </div>
               <div className="flex items-center space-x-3">

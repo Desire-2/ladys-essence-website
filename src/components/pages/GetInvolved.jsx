@@ -458,10 +458,10 @@ const GetInvolved = () => {
                   <div className="flex items-center justify-center gap-3">
                     <Mail className="h-5 w-5 text-primary" />
                     <a 
-                      href="mailto:contact@laddyseccense.org" 
+                      href="mailto:ladysessence1@gmail.com" 
                       className="text-primary hover:underline"
                     >
-                      contact@laddyseccense.org
+                      ladysessence1@gmail.com
                     </a>
                   </div>
                   <div className="flex items-center justify-center gap-3">

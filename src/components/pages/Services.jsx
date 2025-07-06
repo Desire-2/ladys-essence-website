@@ -288,7 +288,7 @@ const Services = () => {
               </div>
               <h3 className="text-xl font-semibold mb-2">USSD Service</h3>
               <p className="text-muted-foreground mb-4">
-                Dial *384*70975# on any mobile phone to access our services
+                Dial *384*70975# on any mobile phone to access our services// Now available in the USSD simulator only
               </p>
               <Button asChild variant="outline" size="sm">
                 <Link to="/ussd-simulator">
