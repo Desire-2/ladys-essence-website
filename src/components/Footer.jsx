@@ -13,7 +13,7 @@ const Footer = () => {
             <div className="flex items-center space-x-2">
               <div className="bg-white p-2 rounded-full">
                 <img 
-                  src="/dist/assets/logo.png" 
+                  src="../dist/assets/logo.png" 
                   alt="Lady's Essence Logo" 
                   className="h-6 w-6 object-contain"
                 />
