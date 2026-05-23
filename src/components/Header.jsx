@@ -38,10 +38,6 @@ const Header = () => {
                 className="h-6 w-6 object-contain"
               />
             </div>
-            <div>
-              <h1 className="text-xl font-bold text-primary">Lady's Essence</h1>
-              <p className="text-xs text-muted-foreground">Empowering Women</p>
-            </div>
           </Link>
 
           {/* Desktop Navigation */}
